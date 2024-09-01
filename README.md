@@ -48,5 +48,5 @@ for fullname, remark in remarks.items():
 2. Open a terminal or command prompt and navigate to the directory where the script is located.
 3. Run the script using the following command:
 ``` bash
-python script_name.py
+python3 app.py
 ```
